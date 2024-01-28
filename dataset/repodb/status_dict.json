@@ -1,0 +1,6 @@
+{
+  "Approved": 0,
+  "Suspended": 1,
+  "Terminated": 2,
+  "Withdrawn": 3
+}
